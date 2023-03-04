@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.42db7c36.css",
+    "main.js": "/static/js/main.b1488d4f.js",
+    "static/media/кошка.jpg": "/static/media/кошка.8266eed5d7feb94d8f04.jpg",
+    "static/media/коза.jpeg": "/static/media/коза.7ac5419247b899a2b823.jpeg",
+    "static/media/logo.jpg": "/static/media/logo.c0b92a9ea7e10b285069.jpg",
+    "index.html": "/index.html",
+    "main.42db7c36.css.map": "/static/css/main.42db7c36.css.map",
+    "main.b1488d4f.js.map": "/static/js/main.b1488d4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42db7c36.css",
+    "static/js/main.b1488d4f.js"
+  ]
+}
